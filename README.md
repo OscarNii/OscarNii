@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hey 👋, the name is Oscar Nii Jnr</h1>
 <h3 align="center">Was focused on 👉🏼JavaScript, Html, CSS, Tailwind and BoosTrap👨🏽‍💻👈🏼 till FLUTTER 🥳 came in. West Africa based (Ghana)🥳</h3>
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarnii&label=Profile%20views&color=0e75b6&style=flat" alt="oscarnii" /> </p>
 
