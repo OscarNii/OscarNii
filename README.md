@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Food Idols](https://github.com/OscarNii/foodidols)
 
-- 🌱 I’m currently learning **Dart Language, ReactNative and BootStrap**
+- 🌱 I’m currently learning **Dart Language, ReactNative and BootStrap*
 
 - 👯 I’m looking to collaborate on **Flutter, KotLin, BootStrap, Tailwind and Flutter again😎**
 
