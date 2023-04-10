@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/winwaystraining.org/wp-content/uploads/2022/02/Android-App-Development-2.jpg?fit=1950%2C720&ssl=1)]
+![MasterHead](https://ben-solutions.com/wp-content/uploads/2017/08/hire-android-developers.jpg)
 <h1 align="center">Hey 👋, the name is Oscar Nii Jnr</h1>
 <h3 align="center">Was focused on 👉🏼JavaScript, Html, CSS, Tailwind and BoosTrap👨🏽‍💻👈🏼 till FLUTTER 🥳 came in. West Africa based (Ghana)🥳</h3>
 <img align="right" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
