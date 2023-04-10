@@ -1,7 +1,7 @@
 ![MasterHead](https://ben-solutions.com/wp-content/uploads/2017/08/hire-android-developers.jpg)
 <h1 align="center">Hey 👋, the name is Oscar Nii Jnr</h1>
 <h3 align="center">Was focused on 👉🏼JavaScript, Html, CSS, Tailwind and BoosTrap👨🏽‍💻👈🏼 till FLUTTER 🥳 came in. West Africa based (Ghana)🥳</h3>
-<img align="right" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
+<img align="right" width="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarnii&label=Profile%20views&color=0e75b6&style=flat" alt="oscarnii" /> </p>
