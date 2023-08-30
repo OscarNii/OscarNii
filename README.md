@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Food Idols](https://github.com/OscarNii/foodidols)
 
-- 👨‍💻 All of my projects are available at [under maintenance 👨🏽‍💻](under maintenance 👨🏽‍💻)
+- 👨‍💻 All of my projects are available at [Under Maintenance 👨🏽‍💻](under maintenance 👨🏽‍💻)
 
 - 📝 I regularly write codes on [Flutter,KotLin and Dart Language](Flutter,KotLin and Dart Language)
 
