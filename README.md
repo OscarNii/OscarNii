@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscarnii" alt="oscarnii" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/@tensionn__](https://twitter.com/MhanuelCodes)" target="blank"><img src="https://img.shields.io/twitter/follow/@tensionn__?logo=twitter&style=for-the-badge" alt="@tensionn__" /></a> </p>
+<p align="left"> <a href="(https://twitter.com/MhanuelCodes)" target="blank"><img src="https://img.shields.io/twitter/follow/@MhanuelCodes?logo=twitter&style=for-the-badge" alt="@MhanuelCodes" /></a> </p>
 
 - 🔭 I’m currently working on [Food Idols](https://github.com/OscarNii/foodidols)
 
